@@ -1,0 +1,18 @@
+html, .normalize {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.position {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+h1 {
+    width: 300px;
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+}
